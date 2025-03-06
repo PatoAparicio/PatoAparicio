@@ -5,7 +5,7 @@
 
 Ingeniera Mecatrónica, apasionada por la técnología y el Desarrollo Web que me permite combinar mis habilidades técnicas con mi creatividad para construir soluciones digitales eficientes. Con una fuerte orientación a la innovación y en constante aprendizaje para adaptarme a las nuevas tecnologías.
 
- <a href="https://patoaparicio.github.io/PortafolioPatriciaAparicio/" target="_blank" >
+ <a href="https://patoaparicio.github.io/PortafolioPatriciaAparicio/" target="_blank" rel="noopener noreferrer" >
     <img alt="PORTAFOLIO" target="_blank" src="https://img.shields.io/badge/PORTAFOLIO-%23234FC08D?style=for-the-badge">
   </a>
 
